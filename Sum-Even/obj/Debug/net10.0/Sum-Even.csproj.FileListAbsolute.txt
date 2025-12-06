@@ -1,0 +1,15 @@
+C:\Users\ASUS\Documents\1. SE'25\Tugas\TUGASS\SumEven\Sum-Even\bin\Debug\net10.0\Sum-Even.exe
+C:\Users\ASUS\Documents\1. SE'25\Tugas\TUGASS\SumEven\Sum-Even\bin\Debug\net10.0\Sum-Even.deps.json
+C:\Users\ASUS\Documents\1. SE'25\Tugas\TUGASS\SumEven\Sum-Even\bin\Debug\net10.0\Sum-Even.runtimeconfig.json
+C:\Users\ASUS\Documents\1. SE'25\Tugas\TUGASS\SumEven\Sum-Even\bin\Debug\net10.0\Sum-Even.dll
+C:\Users\ASUS\Documents\1. SE'25\Tugas\TUGASS\SumEven\Sum-Even\bin\Debug\net10.0\Sum-Even.pdb
+C:\Users\ASUS\Documents\1. SE'25\Tugas\TUGASS\SumEven\Sum-Even\obj\Debug\net10.0\Sum-Even.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Documents\1. SE'25\Tugas\TUGASS\SumEven\Sum-Even\obj\Debug\net10.0\Sum-Even.AssemblyInfoInputs.cache
+C:\Users\ASUS\Documents\1. SE'25\Tugas\TUGASS\SumEven\Sum-Even\obj\Debug\net10.0\Sum-Even.AssemblyInfo.cs
+C:\Users\ASUS\Documents\1. SE'25\Tugas\TUGASS\SumEven\Sum-Even\obj\Debug\net10.0\Sum-Even.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\1. SE'25\Tugas\TUGASS\SumEven\Sum-Even\obj\Debug\net10.0\Sum-Even.sourcelink.json
+C:\Users\ASUS\Documents\1. SE'25\Tugas\TUGASS\SumEven\Sum-Even\obj\Debug\net10.0\Sum-Even.dll
+C:\Users\ASUS\Documents\1. SE'25\Tugas\TUGASS\SumEven\Sum-Even\obj\Debug\net10.0\refint\Sum-Even.dll
+C:\Users\ASUS\Documents\1. SE'25\Tugas\TUGASS\SumEven\Sum-Even\obj\Debug\net10.0\Sum-Even.pdb
+C:\Users\ASUS\Documents\1. SE'25\Tugas\TUGASS\SumEven\Sum-Even\obj\Debug\net10.0\Sum-Even.genruntimeconfig.cache
+C:\Users\ASUS\Documents\1. SE'25\Tugas\TUGASS\SumEven\Sum-Even\obj\Debug\net10.0\ref\Sum-Even.dll
